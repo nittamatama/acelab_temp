@@ -1107,13 +1107,13 @@ ul.works_list li a:hover {
 }
 
 /*キャッチ背景　赤系*/
-.top_base.cl_01 {
+/* .top_base.cl_01 {
  background: rgb(217,0,72);
 background: -moz-radial-gradient(circle, rgba(217,0,72,0.65) 10%, rgba(255,18,80,0) 60%);
 background: -webkit-radial-gradient(circle, rgba(217,0,72,0.65) 10%, rgba(255,18,80,0) 60%);
 background: radial-gradient(circle, rgba(217,0,72,0.65) 10%, rgba(255,18,80,0) 60%);
 filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#d90048",endColorstr="#ff1250",GradientType=1); 
-}
+} */
 
 /*キャッチ背景　緑系*/
 .top_base.cl_02 {
